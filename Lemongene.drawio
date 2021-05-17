@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T10:34:54.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uYIQKgbTRKqz7FBcFDB8" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T10:39:00.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="T0kVv9w27oEvOpGj7tnq" version="14.6.13" type="github">
   <diagram id="QzUdSv5bi3c13NPvNYom" name="Page-1">
     <mxGraphModel dx="1125" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -33,10 +33,10 @@
             <mxPoint x="72.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bUeCEsJDket9SZMUi5b--36" value="新手報名" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;" vertex="1" parent="1">
+        <mxCell id="bUeCEsJDket9SZMUi5b--36" value="新手報名" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="50" y="290" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bUeCEsJDket9SZMUi5b--39" value="中間搵師傅" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;" vertex="1" parent="1">
+        <mxCell id="bUeCEsJDket9SZMUi5b--39" value="中間搵師傅" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="116" y="290" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bUeCEsJDket9SZMUi5b--41" value="補鐘" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;" vertex="1" parent="1">
