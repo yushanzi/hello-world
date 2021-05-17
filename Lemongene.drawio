@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T10:42:41.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="H_6SHrLK5b0Qaau_bnHH" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T11:05:20.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WHZfT5xwqsbDQ4_9BdJH" version="14.6.13" type="github">
   <diagram id="QzUdSv5bi3c13NPvNYom" name="Page-1">
     <mxGraphModel dx="1125" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -177,6 +177,12 @@
         <mxCell id="bUeCEsJDket9SZMUi5b--81" value="買車" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="560" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--168" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bUeCEsJDket9SZMUi5b--169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="511" y="640" as="targetPoint" />
+            <mxPoint x="426" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bUeCEsJDket9SZMUi5b--82" value="賣車" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="90" height="40" as="geometry" />
         </mxCell>
@@ -304,7 +310,7 @@
             <mxPoint x="173.5" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bUeCEsJDket9SZMUi5b--113" value="金融" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bUeCEsJDket9SZMUi5b--113" value="金融" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="230" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bUeCEsJDket9SZMUi5b--122" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -336,6 +342,125 @@
             <mxPoint x="319.5" y="690" as="targetPoint" />
             <mxPoint x="320" y="640" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--130" value="香港停車" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="183.5" y="870" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--131" value="" style="endArrow=none;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354.5" y="951" as="sourcePoint" />
+            <mxPoint x="97.5" y="951" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--134" value="廣告服務" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="78" y="1001" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--135" value="車位租賃/出售" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="143" y="1001" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--136" value="二手車導流" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1001" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--137" value="車位共享服務" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="208" y="1001" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--156" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1" source="bUeCEsJDket9SZMUi5b--138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289.5" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--138" value="汽車周邊服務" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1001" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--141" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97.5" y="1001" as="targetPoint" />
+            <mxPoint x="98" y="951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.5" y="1001" as="targetPoint" />
+            <mxPoint x="163" y="951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227.5" y="1001" as="targetPoint" />
+            <mxPoint x="228" y="951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="288.5" y="1001" as="targetPoint" />
+            <mxPoint x="289" y="951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="1001" as="targetPoint" />
+            <mxPoint x="354.5" y="951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--146" value="" style="endArrow=none;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="228" y="951" as="sourcePoint" />
+            <mxPoint x="228" y="911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--157" value="" style="endArrow=none;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="416.5" y="1120" as="sourcePoint" />
+            <mxPoint x="159.5" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--158" value="美容" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1170" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--159" value="維修" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1170" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--160" value="車迷會" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1170" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--161" value="洗車" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1170" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--162" value="汽車周邊產品電商" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="331" y="1170" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--163" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.5" y="1170" as="targetPoint" />
+            <mxPoint x="160" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--164" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="224.5" y="1170" as="targetPoint" />
+            <mxPoint x="225" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289.5" y="1170" as="targetPoint" />
+            <mxPoint x="290" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--166" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350.5" y="1170" as="targetPoint" />
+            <mxPoint x="351" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--167" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="1170" as="targetPoint" />
+            <mxPoint x="416.5" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bUeCEsJDket9SZMUi5b--169" value="個人售賣" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
